@@ -1,0 +1,229 @@
+
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+
+@media (min-width: 1699px) and (max-width: 1980px) {
+
+
+	
+}
+
+
+@media (min-width: 1100px) and (max-width: 1310px) {
+
+.carousel-caption h1 { font-size:38px;}
+
+.carousel-caption h2 { font-size:26px;}
+
+.carousel-caption h2.cp-sh { margin-left:20px;}
+
+}	 
+
+
+@media (max-width: 1199px) {
+
+.flt .col-md-6 { width:100%;}
+
+.flt h4 { text-align:left;}
+
+.flt p { text-align:left;}
+
+.business-hour h3 { font-size:14px; float:left; margin-right:30px;}
+
+.tf { position:absolute; margin-top:-70px;}
+		
+}
+
+@media (min-width: 992px) and (max-width: 1099px) {
+
+.carousel-caption h1 { font-size:36px;}
+
+.carousel-caption h2 { font-size:20px;}
+
+.carousel-caption h2.cp-sh { margin-left:60px;}	
+
+.navbar-default .navbar-nav > li > a { padding-left:5px;}
+
+.button-ch a { font-size:14px; padding:10px 20px;}
+		
+.carousel-caption { padding-bottom:50px;}
+
+.ser-dv { min-height:240px;}
+
+}
+
+@media (max-width:991px) {
+	
+
+.del1 { display:none;}
+
+.ser-dv { min-height:100px;}
+
+.dman { display:none;}
+
+.tf { width:150px; margin-top:-50px;}
+
+
+}
+	
+@media (min-width: 768px) and (max-width: 991px) {
+	
+.business-hour h3 { font-size:14px; float:left; margin-right:60px;}
+
+.carousel-caption h1 { font-size:26px;}
+
+.carousel-caption h2 { font-size:18px;}
+
+.carousel-caption h2.cp-sh { margin-left:10px;}	
+
+.button-ch a { font-size:14px; padding:10px 20px;}
+		
+.carousel-caption { padding-bottom:20px;}
+
+.service-bottom .col-md-2 { width:33%; padding:30px; min-height:250px;}
+
+.service-bottom .ds { border:none;}
+
+.service-bottom .vd { border-right:1px solid #7a7a7a;}
+
+.service-bottom .sds { border-bottom:1px solid #7a7a7a;}
+		
+.logo { width:100%; border-bottom: 1px solid #fff;  margin-bottom: -1px; padding-bottom: 20px;}
+ 
+.logo  img { margin:0 auto;}
+
+.service-bottom .col-md-2 {min-height: 270px;}
+
+.flt { min-height: 0px; padding-bottom: 50px;}
+
+.rtt { margin-top: 80px;}
+
+.ser-dv { min-height:210px;}
+
+}
+
+@media (max-width:767px) {
+	
+
+.del2 { display:none;}	
+
+.navbar-default .navbar-toggle , .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus { background:#232323; border:2px solid #fff; border-radius:50%;  height:49px; width:49px; padding-left:12px;}
+
+.navbar-default .navbar-toggle .icon-bar { background:#fff;}
+	
+.service-bottom .vd {border-right:1px solid #6c6c6c;}
+
+.service-bottom  .rt { border-right:0px; border-bottom:1px solid #6c6c6c;}
+
+.navbar-default .navbar-nav > li > a { padding:10px 20px;}
+
+.navbar-toggle { margin:30px 0;}
+
+.service .col-xs-6 { width:100%;}
+
+.top-footer { padding:50px 0;}
+
+.bottom-footer .col-xs-6 { width:100%;}
+
+.fot-last p { width:100%;}
+
+.fot-last p:last-child { padding-top:0;}
+
+.sdr { padding-top:60px;}
+
+.tf { display:none;} 
+
+}
+
+@media (max-width: 767px) and (min-width:479px){	
+
+.carousel-caption h1 { font-size:18px; padding:6px 0;}
+
+.carousel-caption h2 { font-size:13px;}
+
+.carousel-caption h2.cp-sh { margin-left:0px;}	
+
+.carousel-caption .button-ch a { font-size:12px; padding:6px 15px;}
+
+.carousel-caption .button-ch { padding:15px;}
+		
+.carousel-caption { padding-bottom:30px; right: 57%;}
+
+.service-bottom .col-md-2 { width:50%; padding:20px;}
+
+.service-bottom .sds { border-bottom:1px solid #7a7a7a;}
+
+.service-bottom .col-md-2 {min-height: 260px;}
+
+.ft-srd ul li { width:120%;}
+
+.flt { min-height:0; padding-bottom:50px;}
+
+}
+
+
+@media (max-width:555px){	
+
+.call-section h1 { font-size:36px;  }
+
+.call-section a { font-size:13px;  }
+
+.welcome h2 { padding:0 20px;}  
+
+.fleets .col-xs-6 { width:100%;}
+
+.flt { padding-bottom: 50px;}
+
+}
+
+
+
+@media (max-width: 480px) {
+	
+.logo { width:200px; margin-top:20px;}	
+
+.carousel-caption h1 { font-size:16px; padding:6px 0;  font-weight:900;}
+
+.carousel-caption h2 { font-size:12px;}
+
+.carousel-caption .button-ch { display:none; }
+
+.carousel-caption h2.cp-sh { margin-left:-5px;}
+
+.carousel-caption { padding-bottom:30px; right:20%;}
+
+.social-icon{ display:none;}
+
+.atty .col-xs-6 { width:100%;}
+
+.service-bottom .col-md-2 { width:100%; padding:20px;}
+
+.service-bottom .sds { border-bottom:1px solid #7a7a7a; border-right:0;}
+
+.service-bottom .vd { border-right:0;}
+
+.call-section h3 { font-size:20px;}
+
+.call-section h1 { font-size:28px;  }
+
+.flt { min-height:inherit;}
+
+
+}
+	
+@media (max-width: 320px) {
+
+	
+}
+
+
